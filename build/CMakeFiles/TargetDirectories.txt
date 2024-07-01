@@ -1,3 +1,0 @@
-/home/milosulin/Ohjelmointi/Omat/HelloWorld/build/CMakeFiles/helloworld.dir
-/home/milosulin/Ohjelmointi/Omat/HelloWorld/build/CMakeFiles/edit_cache.dir
-/home/milosulin/Ohjelmointi/Omat/HelloWorld/build/CMakeFiles/rebuild_cache.dir
