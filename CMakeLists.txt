@@ -10,13 +10,4 @@ target_include_directories(helloworld
 #################################################################
 # Install
 #################################################################
-if(WIN32)
-    install(TARGETS helloworld
-        DESTINATION ${PROJECT_SOURCE_DIR}/build-win/HelloWorld-win
-    )
-
-    install(FILES /usr/lib/gcc/x86_64-w64-mingw32/13-win32/libstdc++-6.dll /usr/lib/gcc/x86_64-w64-mingw32/13-win32/libgcc_s_seh-1.dll
-        DESTINATION ${PROJECT_SOURCE_DIR}/build-win/HelloWorld-win
-    )
-endif()
 
