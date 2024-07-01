@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/milosulin/Ohjelmointi/Omat/HelloWorld/build",
+  "command": "/usr/bin/c++  -I/home/milosulin/Ohjelmointi/Omat/HelloWorld/include -g -o CMakeFiles/helloworld.dir/src/Hello.cpp.o -c /home/milosulin/Ohjelmointi/Omat/HelloWorld/src/Hello.cpp",
+  "file": "/home/milosulin/Ohjelmointi/Omat/HelloWorld/src/Hello.cpp",
+  "output": "CMakeFiles/helloworld.dir/src/Hello.cpp.o"
+},
+{
+  "directory": "/home/milosulin/Ohjelmointi/Omat/HelloWorld/build",
+  "command": "/usr/bin/c++  -I/home/milosulin/Ohjelmointi/Omat/HelloWorld/include -g -o CMakeFiles/helloworld.dir/src/main.cpp.o -c /home/milosulin/Ohjelmointi/Omat/HelloWorld/src/main.cpp",
+  "file": "/home/milosulin/Ohjelmointi/Omat/HelloWorld/src/main.cpp",
+  "output": "CMakeFiles/helloworld.dir/src/main.cpp.o"
+}
+]

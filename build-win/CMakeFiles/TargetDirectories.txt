@@ -1,0 +1,7 @@
+/home/milosulin/Ohjelmointi/Omat/HelloWorld/build-win/CMakeFiles/helloworld.dir
+/home/milosulin/Ohjelmointi/Omat/HelloWorld/build-win/CMakeFiles/edit_cache.dir
+/home/milosulin/Ohjelmointi/Omat/HelloWorld/build-win/CMakeFiles/rebuild_cache.dir
+/home/milosulin/Ohjelmointi/Omat/HelloWorld/build-win/CMakeFiles/list_install_components.dir
+/home/milosulin/Ohjelmointi/Omat/HelloWorld/build-win/CMakeFiles/install.dir
+/home/milosulin/Ohjelmointi/Omat/HelloWorld/build-win/CMakeFiles/install/local.dir
+/home/milosulin/Ohjelmointi/Omat/HelloWorld/build-win/CMakeFiles/install/strip.dir
